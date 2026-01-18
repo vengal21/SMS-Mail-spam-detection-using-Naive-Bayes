@@ -7,5 +7,7 @@ Built a text classification model using Python and NLP to detect spam messages b
 Outcome:
 
 • Improved communication quality
+
 • Reduced noise in CRM analytics
+
 • Can be integrated into CRM pipelines
